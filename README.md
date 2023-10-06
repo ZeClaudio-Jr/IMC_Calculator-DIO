@@ -1,1 +1,1 @@
-# IMC_Calculator-DIO
+# IMC Calculator DIO
